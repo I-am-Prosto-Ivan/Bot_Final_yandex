@@ -1,0 +1,2 @@
+2024-05-13 22:52:22,515 FILE: main.py IN: <module> MESSAGE: База данных создана
+2024-05-13 22:52:34,475 FILE: main.py IN: text_handler MESSAGE: отправка ответа GPT
